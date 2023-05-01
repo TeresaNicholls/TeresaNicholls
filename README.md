@@ -1,8 +1,5 @@
 ### Hi there👀 I'm Teresa Nicholls📈
 
-<!--
-
-
 - 🔭 I’m currently exploring data science career opportunities.
 - 🌱 I’m currently learning with the BloomTech Data Science program.
 - 👯 I’m looking to collaborate on projects that utitlize my skills.
