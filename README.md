@@ -6,15 +6,15 @@
 
 - 🛠 Skills: **Exploratory Data Analysis | Data Visualization | Linear & Multivariate Regression | Statistical Analysis | Decision Trees & Random Forests | Data Pipelines | Unit Testing | Word Embeddings & Vectorization | Machine Learning | Natural Language Processing | Neural Networks | Deep Learning**
 
-- 🌱 I’m currently exploring **data science career opportunities**
+- 🌱 I’m currently exploring **data science career opportunities.**
 
-- 🔭 I’m currently working on **real estate, financial, entrepreneurial successes, and educational projects**
+- 🔭 I’m currently working on **personal data science projects that include the following topics: real estate, finances, entrepreneurial successes, and public school education.**
 
-- 👨‍💻 All of my projects will be available **here on GitHub**
+- 👨‍💻 All of my projects will be available **here on GitHub.**
 
-- 💬 Ask me about **the journey to becoming a Data Scientist**
+- 💬 Ask me about **the journey to becoming a Data Scientist.**
 
-- 🎨 Fun fact: **I used to be a public school teacher molding the minds of the young**
+- 🎨 Fun fact: **I used to be a public school teacher molding the minds of the young.**
 
 - 📫 How to reach me **MrsNicholls2015@gmail.com**
 
