@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👀 I'm Teresa Nicholls📈</h1>
+<h1 align="center">Hi there🏝 I'm Teresa Nicholls📈</h1>
 <h3 align="center">I am a Data Scientist ready to solve today's problems!</h3>
 <br>
 
